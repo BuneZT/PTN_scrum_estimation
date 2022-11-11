@@ -1,5 +1,5 @@
 # PTN_scrum_estimation
-SCRUM team issue time estimation API. Made in Starlette(Made for PTN lecture on Pjatk) 
+SCRUM team issue time estimation API. Made in Starlette (Made for PTN lecture on Pjatk) 
 
 ## Licensing
 
